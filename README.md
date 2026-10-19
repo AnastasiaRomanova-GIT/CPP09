@@ -5,9 +5,9 @@ containers, input parsing, data handling, and algorithms in C++98.
 
 The repository contains three independent exercises:
 
-- `ex00`: Bitcoin Exchange
-- `ex01`: Reverse Polish Notation (RPN)
-- `ex02`: PmergeMe
+- `ex00`: [Bitcoin Exchange](./ex00)
+- `ex01`: [Reverse Polish Notation (RPN)](./ex01)
+- `ex02`: [PmergeMe](./ex02)
 
 ## Exercises
 
